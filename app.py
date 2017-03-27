@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from flask import Flask, render_template
 
-
+#init app
 app = Flask(__name__)
 
 
